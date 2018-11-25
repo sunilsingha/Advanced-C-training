@@ -42,7 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Advanced Topics\Attrubutes\AttributeBase.cs" />
+    <Compile Include="Advanced Topics\Attributes\AttributeBase.cs" />
+    <Compile Include="Advanced Topics\Attributes\AttributeCustom.cs" />
+    <Compile Include="Advanced Topics\Attributes\AttributeObsolete.cs" />
+    <Compile Include="Advanced Topics\Delegates\DelegateDemo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -6,11 +6,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TrainingDemo.Advanced_Topics.Attrubutes
+namespace TrainingDemo.Advanced_Topics.Attributes
 {
     /// <summary>
-    /// This class is used a 
-    /// base to implement conditional and custom attrivute
+    /// This class is used a base to implement conditional and custom attribute
     /// An attribute is a declarative tag that is used to convey information to runtime about the behaviors of various elements like classes, methods, structures, enumerators, assemblies etc. in your program. 
     /// You can add declarative information to a program by using an attribute. A declarative tag is depicted by square ([ ]) brackets placed above the element it is used for.
     /// Attributes are used for adding metadata, such as compiler instruction and other information such as comments, description, methods and classes to a program.

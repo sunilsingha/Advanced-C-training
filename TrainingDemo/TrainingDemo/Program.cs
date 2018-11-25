@@ -11,7 +11,29 @@ namespace TrainingDemo
 
         static void Main(string[] args)
         {
-            Advanced_Topics.Attrubutes.Test.StartProcess();
+            //Attribute Test
+            //AttributeDemo();
+
+            //Delegate Test
+            DelegateDemo();
+        }
+
+
+        static void AttributeDemo()
+        {
+            //Don't know what this did, but need to understand
+            Advanced_Topics.Attributes.Test.StartProcess();
+
+            //If you uncomment below method, it will show compile errors, as the method is defined Obsolete
+            Advanced_Topics.Attributes.AttributeObsolete.OldMethod();
+
+            //Custom Attribute test
+            Advanced_Topics.Attributes.ExecuteRectangle.RunRectangle();
+        }
+
+        static void DelegateDemo()
+        {
+            Advanced_Topics.Delegates.DelegateDemo.Test();
         }
     }
 }

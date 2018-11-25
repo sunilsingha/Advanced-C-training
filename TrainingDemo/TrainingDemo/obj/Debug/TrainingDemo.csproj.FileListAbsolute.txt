@@ -5,3 +5,10 @@ C:\Users\C5195092\Source\Repos\Training\c# training\TrainingDemo\TrainingDemo\bi
 C:\Users\C5195092\Source\Repos\Training\c# training\TrainingDemo\TrainingDemo\bin\Debug\TrainingDemo.pdb
 C:\Users\C5195092\Source\Repos\Training\c# training\TrainingDemo\TrainingDemo\obj\Debug\TrainingDemo.exe
 C:\Users\C5195092\Source\Repos\Training\c# training\TrainingDemo\TrainingDemo\obj\Debug\TrainingDemo.pdb
+C:\Users\C5195092\Documents\GitHub\Advanced-C-training\TrainingDemo\TrainingDemo\bin\Debug\TrainingDemo.exe.config
+C:\Users\C5195092\Documents\GitHub\Advanced-C-training\TrainingDemo\TrainingDemo\bin\Debug\TrainingDemo.exe
+C:\Users\C5195092\Documents\GitHub\Advanced-C-training\TrainingDemo\TrainingDemo\bin\Debug\TrainingDemo.pdb
+C:\Users\C5195092\Documents\GitHub\Advanced-C-training\TrainingDemo\TrainingDemo\obj\Debug\TrainingDemo.csprojAssemblyReference.cache
+C:\Users\C5195092\Documents\GitHub\Advanced-C-training\TrainingDemo\TrainingDemo\obj\Debug\TrainingDemo.csproj.CoreCompileInputs.cache
+C:\Users\C5195092\Documents\GitHub\Advanced-C-training\TrainingDemo\TrainingDemo\obj\Debug\TrainingDemo.exe
+C:\Users\C5195092\Documents\GitHub\Advanced-C-training\TrainingDemo\TrainingDemo\obj\Debug\TrainingDemo.pdb
